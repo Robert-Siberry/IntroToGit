@@ -1,2 +1,2 @@
-Hello World!
-Additions can be put on anew line
+Hello Everyone!
+Additions can also be put on a new line
