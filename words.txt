@@ -1,1 +1,2 @@
 a new file can be added to a new brach the same way it is added to the master branch
+files can be editted here before being merged with the master branch 
